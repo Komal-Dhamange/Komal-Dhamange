@@ -63,7 +63,6 @@ Hi 👋 I'm Komal Dhamange
 
 - Simple Calculator
 - Advanced Calculator
-- Tic Tac Toe
 - Online Voting System
 - Chatting Application
 
@@ -73,7 +72,6 @@ Hi 👋 I'm Komal Dhamange
 
 - Quiz Game
 - Language Translator
-- Hangman Game
 
 ---
 
